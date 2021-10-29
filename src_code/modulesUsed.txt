@@ -1,0 +1,7 @@
+use cygwin and enter:
+
+pip install -U discord.py
+
+then,
+
+pip install -U python-dotenv
